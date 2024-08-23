@@ -20,7 +20,7 @@ Below is list of the various aspects of Capibara:
 | [Capibara CAPI](https://github.com/Capibara-Tools/capi) | A repository containing crowdsourced C library documentation formatted in a new human and machine readable standard for  built on YAML. |
 | [Capibara Processor](https://github.com/Capibara-Tools/capibara-processor) | Tooling that ingests the Capibara CAPI and formats it for distribution to IDE plugins and other clients. |
 | [Capibara Website](https://github.com/Capibara-Tools/website) | The website containing important Capibara info, links, resources, and more. Also provides a nice UI for traversing the Capibara CAPI documentation. |
-|**Various Capibara Plugins** | These are various IDE and text editor plugins that support providing intellisense, documentation, hover-based keyword lookup, and more based on the Capibara CAPI documentation. Currently: [Capibara VS Code Plugin](https://github.com/Capibara-Tools/capibara-vs-code), [Capibara VIM Plugin](https://github.com/Capibara-Tools/capibara-vim) |
+|**Various Capibara Plugins** | These are various IDE and text editor plugins that support providing intellisense, documentation, hover-based keyword lookup, and more based on the Capibara CAPI documentation. Currently: [Capibara VS Code Plugin](https://github.com/Capibara-Tools/capibara-vs-code), [Capibara VIM Plugin](https://github.com/Capibara-Tools/capibara-vim), [Capibara Emacs Plugin](https://github.com/Capibara-Tools/capibara-vim) |
 
 ## Capibara is a Community
 Capibara is built by people like you! From contributing more C library documentation to building new and better plugins integrations using Capibara nothing would be possible without the support of the Capibara community.
