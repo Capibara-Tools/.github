@@ -30,7 +30,9 @@ Capibara is built by people like you! From contributing more C library documenta
 We need your help to continue doing awesome things!
 
 ## Star History
-[![Star History Chart](https://api.star-history.com/svg?repos=Capibara-Tools/capi&type=Date)](https://star-history.com/#Capibara-Tools/capi&Date)
+
+![Star History Chart](https://api.star-history.com/svg?repos=Capibara-Tools/capi&type=Date)
+
 <!--
 
 **Here are some ideas to get you started:**
