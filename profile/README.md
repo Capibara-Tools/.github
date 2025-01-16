@@ -31,7 +31,7 @@ We need your help to continue doing awesome things!
 
 ## Star History
 
-![Star History Chart](https://api.star-history.com/svg?repos=Capibara-Tools/capi&type=Date)
+<img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Capibara-Tools/capi&type=Date"/>
 
 <!--
 
